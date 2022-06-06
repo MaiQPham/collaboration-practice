@@ -1,3 +1,3 @@
 # collaboration-practice
 
-The quick brown fox jumped over the tree
+The quick brown fox jumped over the trees
